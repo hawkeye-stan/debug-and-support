@@ -1,2 +1,2 @@
-# debug-and-support
-Repository to provide debug and support capability my other repositories
+# Debug and Support
+Repository to provide debug and support capability my other repositories.
